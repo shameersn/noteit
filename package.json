@@ -1,0 +1,29 @@
+{
+  "name": "noteit",
+  "version": "0.0.0",
+  "description": "Simple note taker",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shameersn/noteit.git"
+  },
+  "keywords": [
+    "Note",
+    "taker",
+    "Text",
+    "pad"
+  ],
+  "author": "Shameer S N",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shameersn/noteit/issues"
+  },
+  "homepage": "https://github.com/shameersn/noteit#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
